@@ -20,7 +20,7 @@ setup(
     name='Nose My Code',
     version='0.0.2',
     description='Produces a colour coded nose stack trace',
-    author='Hansel Dunlop, Jarek Dziedzic, Greg , Tina Zhang',
+    author='Hansel Dunlop, Jarek Dziedzic, Greg Loyse, Tina Zhang',
     author_email='aychedee@github.com, jarekdziedzic@github.com, arachnegl@github.com, ttz21@github.com',
     url='https://github.com/ttz21/nose_my_code',
     packages=packages,
