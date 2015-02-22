@@ -1,4 +1,11 @@
-# colourful_nose
+octomanager
+===========
+
+.. image:: https://travis-ci.org/arachnegl/nose-my-code.png?branch=master
+  :target: https://travis-ci.org/arachnegl/nose-my-code
+
+
+A pull request manager for GitHub
 produces a colour coded nose stack trace
 
 Do you like running, testing and debugging your code in the command line using nose?  
