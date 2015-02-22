@@ -1,8 +1,8 @@
 octomanager
 ===========
 
-.. image:: https://travis-ci.org/arachnegl/nose-my-code.png?branch=master
-  :target: https://travis-ci.org/arachnegl/nose-my-code
+.. image:: https://travis-ci.org/nose-my-code/nose-my-code.png?branch=master
+  :target: https://travis-ci.org/nose-my-code/nose-my-code
 
 
 A pull request manager for GitHub
