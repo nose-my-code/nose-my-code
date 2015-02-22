@@ -19,7 +19,8 @@ We are attempting to build a plug-in for nosetests that will print a colour code
 Python packages used:
 nosetests
 
-Initial version compatible with Python 2.7 and unix only
+Tested on Python 2.7, and 3.4 on Linux & OSX. Probably works on other versions
+of python. Probably doesn't work on Windows.
 
 Built at the Building Better Tools with Python day, Google Campus London, 7th Feb 2015.
 
