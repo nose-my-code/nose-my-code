@@ -3,9 +3,8 @@ Nose My Code
 
 ...it knows your code!
 
-.. image:: https://travis-ci.org/nose-my-code/nose-my-code.png?branch=master
-  :target: https://travis-ci.org/nose-my-code/nose-my-code
-
+.. image:: https://travis-ci.org/nose-my-code/nose-my-code.svg?branch=master
+    :target: https://travis-ci.org/nose-my-code/nose-my-code
 
 Nose my code colours your code in a stack trace
 
