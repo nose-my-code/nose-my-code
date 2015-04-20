@@ -17,6 +17,14 @@ of python. Probably doesn't work on Windows.
 
 Built at the Building Better Tools with Python day, Google Campus London, 7th Feb 2015.
 
-To see it in action you can run the test:
+To see it in action you can run the tests:
 
     python test.py --with-mycode
+
+To install:
+
+    pip install nose-mycode
+
+To use:
+
+    nosetests --with-mycode
