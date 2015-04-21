@@ -3,8 +3,7 @@ Nose My Code
 
 ...it knows your code!
 
-.. image:: https://travis-ci.org/nose-my-code/nose-my-code.svg?branch=master
-    :target: https://travis-ci.org/nose-my-code/nose-my-code
+|Build Status| |Pypi Status|
 
 Nose my code colours your code in a stack trace
 
@@ -28,3 +27,10 @@ To install:
 To use:
 
     nosetests --with-mycode
+
+
+.. |Build Status| image:: https://travis-ci.org/nose-my-code/nose-my-code.svg?branch=master
+    :target: https://travis-ci.org/nose-my-code/nose-my-code
+
+.. |Pypi Status| image:: https://pypip.in/v/restnavigator/badge.png
+    :target: https://pypi.python.org/pypi/nose-mycode/
